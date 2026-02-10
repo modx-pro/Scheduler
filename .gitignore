@@ -1,4 +1,6 @@
 .idea/
+.claude/
+CLAUDE.md
 config.core.php
 vendor/
 composer.lock
